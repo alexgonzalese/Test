@@ -1,0 +1,14 @@
+C:\Users\edgarespinoza\source\repos\TestAbril2022\TestAbril2022\bin\Debug\netcoreapp3.1\TestAbril2022.exe
+C:\Users\edgarespinoza\source\repos\TestAbril2022\TestAbril2022\bin\Debug\netcoreapp3.1\TestAbril2022.deps.json
+C:\Users\edgarespinoza\source\repos\TestAbril2022\TestAbril2022\bin\Debug\netcoreapp3.1\TestAbril2022.runtimeconfig.json
+C:\Users\edgarespinoza\source\repos\TestAbril2022\TestAbril2022\bin\Debug\netcoreapp3.1\TestAbril2022.runtimeconfig.dev.json
+C:\Users\edgarespinoza\source\repos\TestAbril2022\TestAbril2022\bin\Debug\netcoreapp3.1\TestAbril2022.dll
+C:\Users\edgarespinoza\source\repos\TestAbril2022\TestAbril2022\bin\Debug\netcoreapp3.1\TestAbril2022.pdb
+C:\Users\edgarespinoza\source\repos\TestAbril2022\TestAbril2022\obj\Debug\netcoreapp3.1\TestAbril2022.csproj.AssemblyReference.cache
+C:\Users\edgarespinoza\source\repos\TestAbril2022\TestAbril2022\obj\Debug\netcoreapp3.1\TestAbril2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgarespinoza\source\repos\TestAbril2022\TestAbril2022\obj\Debug\netcoreapp3.1\TestAbril2022.AssemblyInfoInputs.cache
+C:\Users\edgarespinoza\source\repos\TestAbril2022\TestAbril2022\obj\Debug\netcoreapp3.1\TestAbril2022.AssemblyInfo.cs
+C:\Users\edgarespinoza\source\repos\TestAbril2022\TestAbril2022\obj\Debug\netcoreapp3.1\TestAbril2022.csproj.CoreCompileInputs.cache
+C:\Users\edgarespinoza\source\repos\TestAbril2022\TestAbril2022\obj\Debug\netcoreapp3.1\TestAbril2022.dll
+C:\Users\edgarespinoza\source\repos\TestAbril2022\TestAbril2022\obj\Debug\netcoreapp3.1\TestAbril2022.pdb
+C:\Users\edgarespinoza\source\repos\TestAbril2022\TestAbril2022\obj\Debug\netcoreapp3.1\TestAbril2022.genruntimeconfig.cache
